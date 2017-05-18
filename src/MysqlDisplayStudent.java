@@ -1,3 +1,4 @@
+// This is a simple example for STIW2024
 
 import java.sql.Connection;
 import java.sql.DriverManager;
